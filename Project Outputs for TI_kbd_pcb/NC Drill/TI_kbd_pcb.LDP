@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\GyroscopeLab\Projects\JGN_Personal\TI-92_Raspberry_PI\TI92_RASPI_JN_0v2\TI_kbd_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ti_kbd_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ti_kbd_pcb-slotholes.txt|DrillLayers=gtl,gbl
